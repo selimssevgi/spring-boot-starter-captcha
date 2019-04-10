@@ -1,0 +1,9 @@
+saptcha:
+  kaptchaProperties:
+    kaptcha.textproducer.char.string: "0123456789aAbBcCdDeEfFgGhHiImMnNqQrRtTyY"
+    kaptcha.textproducer.char.length: 6
+    kaptcha.image.width: 310
+    kaptcha.image.height: 55
+    kaptcha.border: "no"
+    kaptcha.textproducer.font.color: "48,101,137"
+    kaptcha.noise.color: "48,101,137"
